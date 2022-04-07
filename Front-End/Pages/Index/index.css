@@ -22,7 +22,7 @@ background: #1e1e24;
 }
 
 body::-webkit-scrollbar-thumb{
-    background: green;
+    background: yellow;
 }
 
 main{
